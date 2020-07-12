@@ -1,6 +1,6 @@
 # Create Repo
 
-- Create repo on git host, do not let it create or initialize any files for you.
+Create a repo on your git host, do not let it create or initialize any files for you. Then run these on the command line:
 
 ```shell
 git init
