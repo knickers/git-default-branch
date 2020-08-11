@@ -11,7 +11,7 @@ git commit -m "first commit"
 git push -u origin main
 ```
 
-# Rename Repo
+# Rename Branch
 
 ```shell
 $ git branch -m main
