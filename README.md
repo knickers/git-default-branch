@@ -1,6 +1,6 @@
 # Create Repo
 
-Create a repo on your git host, do not let it create or initialize any files for you. Then run these on the command line:
+Create a repo on your git host (e.g. github, gitlab), do not let it create or initialize any files for you. Then run these on the client command line:
 
 ```shell
 git init
